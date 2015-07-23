@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="no-js lt-ie9 is-ie"> <![endif]-->
+<!--[if IE 9]> <html class="no-js is-ie"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+<!--
+	generated in 0.774 seconds
+	51842 bytes batcached for 300 seconds
+-->
+<head>
+<meta charset="utf-8">
+<title>TIME - Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews</title>
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!--[if lt IE 9]><script src="http://s0.wp.com/wp-content/themes/vip/time2014/js/dist/html5shiv.js"></script><![endif]-->
+
+<meta name="description" content="Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news." />
+<meta name="keywords" content="TIME.com, Breaking news, Politics, world news, photos, video, tech reviews, health, science and entertainment news." />
+		<script src='//r-login.wordpress.com/remote-login.php?action=js&amp;host=time.com&amp;id=1359921&amp;t=1416640283&amp;back=http%3A%2F%2Ftime.com%2Fparents%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="canonical" href="http://time.com/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s1.wp.com/_static/??-eJx9zdEOwjAIBdAfsiKuLvHB+C1NR1y30pHB5u/bmvik8Q3IuVx4iotLMSoGvDnJ2yMVhZxmUpjIJMTZvbdjVD3Abx6XleqdJVgTTEMKlIkr+xdj6T+pNo6167vGxvpHYU8ClpjOJ/RQDWhciUrjd76hx953eMHr9AJraEwt' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='ie8-and-down-css'  href='http://s0.wp.com/wp-content/themes/vip/time2014/css/ie8-and-down.css?m=1408808518g&#038;ver=4.1-alpha-30111' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2' href='http://s0.wp.com/_static/??-eJx9jtsOAiEMRH9IrCia+GD8FpZUtqZQAt3198VLvMTEt5nMnMnApZggWTEr6IgJG8xUQCnhemUdhNag+Nrjtux6AQRZlDrSXuIRfAylyRSeIvVORDEswStJ/jLmxJ7qP7TiwBK7jPcXb/sDPY+PDiLL4PlWOKaDdXbnNnZr9+cr5hdUbw==' type='text/css' media='all' />
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJyFkNEKwjAMRX/IrnYMpw/it9QtztQ1rU224b7eDhQUhT0FkpN74OopqiaQAIl2rH04Yw9qYEi2yzuFdAmF443OHFLTDy3wArr7AOnxGquA8tglK1B4pDf8YY2BxQNzVv65fquQRoRpFXMg0TY3lYBx/kmVK2SfHjFqQQ/l1lRLRIssuYIWEuGc8tPJH01lynpfH3aVewKJRG8g'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://timedotcom.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://ti.me/nACNOw' />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/2663fa8912699ba9dd3ac8275001a930?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/2663fa8912699ba9dd3ac8275001a930?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/2cee445ea71a179ffd35ea91cf154905?s=114" />
+<link rel='openid.server' href='http://timedotcom.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://timedotcom.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://time.com/osd.xml" title="TIME" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+<link rel="next" href="http://time.com/parents/page/2/" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="TIME"/>
+<meta name="twitter:title" content="TIME - Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews"/>
+<meta name="twitter:image:src" content="http://s0.wp.com/wp-content/themes/vip/time2014/img/time-logo-og.png"/>
+<meta property="fb:app_id" content="53177223193"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://time.com/"/>
+<meta property="og:site_name" content="TIME.com"/>
+<meta property="og:image" content="http://s0.wp.com/wp-content/themes/vip/time2014/img/time-logo-og.png"/>
+<meta property="og:title" content="TIME - Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews"/>
+<meta name="application-name" content="TIME" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://time.com/feed/;icon-uri=http://0.gravatar.com/blavatar/2663fa8912699ba9dd3ac8275001a930?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<script> window.Time = {"api_url":"http:\/\/time.com\/api\/","authenticated":0,"branding":"time","developer_mode":0,"device":"desktop","home_url":"http:\/\/time.com","posts_per_page":10,"template_uri":"http:\/\/s0.wp.com\/wp-content\/themes\/vip\/time2014","tab_data":{"default":{"tabs":[{"label":"Latest","omniture":"nav-latest","env":"rail","href":"\/","silent":true},{"label":"Magazine","omniture":"nav-magazine","env":"magazine","href":"\/magazine\/"},{"label":"Videos","omniture":"nav-video","env":"videos","href":"\/videos\/"}],"search_url":"http:\/\/search.time.com\/results.html","money":[]},"collection":{"tabs":[{"label":"Today's Influencers","omniture":"nav-influencers","env":"influencers"},{"label":"Time 100","omniture":"nav-100","env":"100"}]}}};
+
+// Typekit async
+(function (d) {
+	var config = {
+			kitId: 'cfk1lij',
+			scriptTimeout: 3000
+		},
+		h = d.documentElement, t = setTimeout(function () {
+			h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+		}, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a;
+	h.className += " wf-loading";
+	if (window.location.protocol === 'https:') {
+		tk.src = 'https://a248.e.akamai.net/f/1016/21600/2d/fonts.timeinc.net/' + config.kitId + '.js';
+	} else {
+		tk.src = 'http://fonts.timeinc.net/' + config.kitId + '.js';
+	};
+	tk.async = true;
+	tk.onload = tk.onreadystatechange = function () {
+		a = this.readyState;
+		if (f || a && a != "complete" && a != "loaded")return;
+		f = true;
+		clearTimeout(t);
+		try {
+			Typekit.load(config)
+		} catch (e) { }
+	};
+	s.parentNode.insertBefore(tk, s)
+})(document);
+</script>
+<link rel="shortcut icon" href="http://s0.wp.com/wp-content/themes/vip/time2014/img/time-favicon.ico"><link rel="apple-touch-icon" href="http://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_76.png"><link rel="apple-touch-icon" sizes="76x76" href="http://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_76.png"><link rel="apple-touch-icon" sizes="120x120" href="http://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_120.png"><link rel="apple-touch-icon" sizes="152x152" href="http://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_152.png"></head>
+<body class="home blog mp6 typekit-enabled page-template-pagespage-special-story-parents-php page-template-pagespage-special-story-php is-signed-out highlander-enabled highlander-light time-branding time_section_front-parents">
+<div class="print-mode"></div>
+	<script>
+		(function ($) {
+			if (window.history && history.pushState) { return; }
+			$('body').addClass('hidden');
+			var hash_matches,
+				regex = /^(money)\//,
+				w = window,
+				w_location = w.location,
+				w_pathname = w_location.pathname,
+				w_hash = w_location.hash;
+			if (w_pathname !== '/' && w_hash.length < 0) {
+				w_location = Time.home_url + '#' + w_pathname.substring(1);
+				return;
+			}
+			if (w_hash !== '#' && w_hash.length > 0) {
+				hash_matches = w_hash.slice(1).match(regex)
+				if (hash_matches) {
+					Time.branding = hash_matches[1];
+					$('#time-app-css').attr('href', Time.template_uri + '/css/screen.' + Time.branding + '.css');
+				}
+				else { Time.branding = 'time'; }
+			}
+		})(jQuery);</script>
+
+<script>var s_account = "timecom";</script>
+<script src="http://img.timeinc.net/tii/omniture/h/config/time_s_code_multivideo.js"></script>
+<script>
+s_time.pageName = 'parents|section front';
+s_time.prop7 = 'section front';
+s_time.prop14 = 'http://time.com/parents/';
+s_time.prop16 = 'parents';
+s_time.prop30 = 'parents';
+s_time.channel = 'time';
+s_time.prop64 = 'v2';
+s_code=s_time.t();if(s_code){document.write(s_code);}
+</script>
+<header class="main-header parents" role="banner">
+	<div class="hat_container">
+		<div id="time_inc_hat">
+			<script>
+				jQuery(document).ready(function ($) {
+					if (typeof TimeHatConfig === 'function') {
+						TimeHatConfig('time');
+					}
+				});
+			</script>
+		</div>
+	</div>
+	<div class="left-rail-header" role="banner">
+		<a class="header-nav-button time-icons time-icons-menu"
+data-bypass="true" data-event="nav-expose" title="Click to show site navigation"></a>
+<div class="logo-wrap" itemscope itemtype="http://schema.org/Organization">
+			<a itemprop="url" href="http://time.com/" class="logo">
+			<img itemprop="logo"
+			     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAREAAABaCAMAAACoopKnAAAC6FBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8u4OzqAAAA93RSTlMAwKBAINAw8LBQ4GAQcAGQgO78bvn+s6YYrOSdAvsND93qmAUt+EJdZf1KxZPK0x1TCvTWCCcH3Mx3xrfY8hLzTfZtDpwiQ7HN7yaOXMkzb1hm44qMqZvsl7iSemk4x6WW33aLvB9H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"
+			     alt="TIME"/>
+							<h2>Time.com</h2>
+					</a>
+		<span class="sign-sub-wrapRail">
+			<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1025584.html">Subscribe</a>
+		</span>
+	</div>
+		<nav class="main-nav" role="navigation">
+
+			<div class="login-nav-wrapper">
+			<a class="login-nav-item sign-in" href="#" data-event="nav-login">Sign In</a>
+			<a class="login-nav-item sign-out" href="https://auth.time.com/logout.php?turl=http://time.com/" data-event="nav-login">Sign Out</a>
+		</div>
+	
+	
+	<div class="tertiary-vertical-nav">
+		<div id="main-time-nav" role="navigation">
+
+										<a class="main-nav-section" href="http://time.com/" aria-controls="rail-articles" data-event="nav-home">
+					<span>Home</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/us/" aria-controls="rail-articles" data-event="nav-us">
+					<span>U.S.</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/politics/" aria-controls="rail-articles" data-event="nav-politics">
+					<span>Politics</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/world/" aria-controls="rail-articles" data-event="nav-world">
+					<span>World</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/business/" aria-controls="rail-articles" data-event="nav-business">
+					<span>Business</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/tech/" aria-controls="rail-articles" data-event="nav-tech">
+					<span>Tech</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/health/" aria-controls="rail-articles" data-event="nav-health">
+					<span>Health</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/science/" aria-controls="rail-articles" data-event="nav-science">
+					<span>Science</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/entertainment/" aria-controls="rail-articles" data-event="nav-entertainment">
+					<span>Entertainment</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/newsfeed/" aria-controls="rail-articles" data-event="nav-newsfeed">
+					<span>Newsfeed</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/living/" aria-controls="rail-articles" data-event="nav-living">
+					<span>Living</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/sports/" aria-controls="rail-articles" data-event="nav-sports">
+					<span>Sports</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/history/" aria-controls="rail-articles" data-event="nav-h  istory">
+					<span>History</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/vault/" aria-controls="rail-articles" data-event="nav-vault">
+					<span>The TIME Vault</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/magazine/" aria-controls="rail-articles" data-event="nav-magazine">
+					<span>Magazine</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/ideas/" aria-controls="rail-articles" data-event="nav-ideas">
+					<span>Ideas</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/parents/" aria-controls="rail-articles" data-event="nav-parents">
+					<span>Parents</span>
+				</a>
+					</div>
+
+		<div class="main-nav-vertical">
+
+							<a href="http://time.com/money/" id="nav-money" aria-controls="rail-articles" data-event="nav-money" data-bypass="true">
+					<span>Money</span>
+				</a>
+			
+			<a href="http://life.time.com/" id="nav-life" aria-controls="rail-articles" data-event="nav-life" data-bypass="true">
+				<span>LIFE</span>
+			</a>
+		</div>
+	</div>
+
+	
+		<div class="main-nav-media">
+			<a href="http://lightbox.time.com/" aria-controls="rail-articles" data-event="nav-photography">
+				<span>Photography</span>
+				<span class="time-icons time-icons-photo"></span>
+			</a>
+			<a href="http://time.com/videos/" aria-controls="rail-articles" data-event="nav-video">
+				<span>Videos</span>
+				<span class="time-icons time-icons-video"></span>
+			</a>
+		</div>
+
+		<div class="tertiary-nav-wrapper tertiary-nav-special">
+			<a href="http://time.com/collection/next-generation-leaders/">Next Generation Leaders</a>
+<a href="http://time.com/topic/above-and-beyond/">Above and Beyond</a>
+<a href="http://time.com/topic/human-data/">Human Data</a>
+<a href="http://time.com/tag/know-right-now/">Know Right Now</a>
+<a href="http://time.com/collection/nantucket-project/">The Nantucket Project</a>
+<a href="http://time.com/topic/new-energy-reality/">New Energy Reality</a>
+<a href="http://time.com/topic/retirement-redefined/">Retirement Redefined</a>
+<a href="http://time.com/collection/2014-time-100/">TIME 100</a>
+<a href="http://time.com/topic/time-explains/">TIME Explains</a>
+<a href="http://time.com/world-trade-center/">Top of the World</a>
+		</div>
+
+	
+	<div class="main-nav-social">
+				<a href="http://www.facebook.com/time" class="time-icons time-icons-fb" data-event="nav-fb"></a>
+		<a href="http://www.twitter.com/time" class="time-icons time-icons-tw" data-event="nav-twitter"></a>
+		<a href="http://plus.google.com/+TIME/posts" rel="publisher" class="time-icons time-icons-gplus" data-event="nav-gplus"></a>
+		<a href="http://timemagazine.tumblr.com/" class="time-icons time-icons-tumblr" data-event="nav-tumblr"></a>
+			</div>
+
+
+		<div class="tertiary-nav-wrapper">
+		<a class="legal-nav-item" href="https://subscription.time.com/storefront/subscribe-to-time/link/1023466.html" data-event="nav-subscribe">Subscribe</a>
+		<a class="legal-nav-item" href="http://ebm.cheetahmail.com/r/regf2?a=0&aid=1078532063&n=1&TIME_SOURCE=Time_footer" data-event="nav-newsletters">Newsletters</a>
+		<a class="legal-nav-item" href="mailto:feedback@time.com" data-event="nav-feedback">Feedback</a>
+		<a class="legal-nav-item" href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/time?dnp_source=E" data-event="nav-privacy">Privacy Policy</a>
+		<a class="legal-nav-item" href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=B#california" data-event="nav-cal-privacy">Your California Privacy Rights</a>
+		<a class="legal-nav-item" href="http://cgi.timeinc.net/cgi-bin/mail/dnp/terms_of_service.cgi/time" data-event="nav-terms">Terms of Use</a>
+		<a class="legal-nav-item" href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html" data-event="nav-ad-choices">Ad Choices <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAMAAACq939wAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEHRSTlMAECAwQFBgcICPn6+/z9/vIxqCigAAAFZJREFUCB0FwQECwiAMBLCw4axS4f7/WhMn3wtAknwGIL/ZOTVAmmdnP5D2ZNbJnqTda7hW8pX2zs21E2mVOSrZU1plnewHaZWcGpDT1TWAJC8Aa90A/nKrBC08aQTRAAAAAElFTkSuQmCC" alt="Ad Choices"></a>
+	</div>
+
+	<div class="tertiary-nav-wrapper">
+		<a class="legal-nav-item" href="http://content.time.com/time/rss" data-event="nav-rss">RSS</a>
+		<a class="legal-nav-item" href="http://subscription-assets.time.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/td-learnmore0711/lp.html" data-event="nav-apps">TIME Apps</a>
+		<a class="legal-nav-item" href="http://www.timeforkids.com/TFK/" data-event="nav-tfk">TIME for Kids</a>
+		<a class="legal-nav-item" href="http://www.timemediakit.com/" data-event="nav-mk">Media Kit</a>
+		<a class="legal-nav-item" href="http://www.timeincnewsgroupcustompub.com/" data-event="nav-ads">Advertising</a>
+		<a class="legal-nav-item" href="http://content.time.com/time/reprints" data-event="nav-reprints">Reprints and Permissions</a>
+		<a class="legal-nav-item" href="http://content.time.com/time/static/sitemap/" data-event="nav-sitemap">Site Map</a>
+		<a class="legal-nav-item" href="http://subscription-assets.time.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/td-learnmore0711/faq.html" data-event="nav-help">Help</a>
+		<a class="legal-nav-item" href="https://secure.customersvc.com/servlet/Show?WESPAGE=td/home.html&MSRSM%20%20%20%20%20AG=TD" data-event="nav-contact">Customer Service</a>
+		<span class="copywrite legal-nav-item">&copy; 2014 Time Inc. All rights reserved.</span>
+	</div>
+	
+
+</nav>				<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1025584.html" id="mobile-subscribe-link" class="clearfix"
+		   target="_blank">Subscribe</a>
+	</div>
+	<div class="section-rail-tabs"></div>
+	<section class="top-banner">
+		<div class="header-user-module">
+        <span class="sign-sub-wrap">
+	        <a href="#signin">Sign In</a><a href="https://subscription.time.com/storefront/subscribe-to-time/link/1025584.html">Subscribe</a>
+        </span>
+		</div>
+		<a href="/parents/" class="brand">
+			<img
+				src="data:image/png;base64,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"
+				alt="The Vault"/>
+		</a>
+		<div id="banner-ad">
+			<div id="special-story-banner-ad" data-cb-ad-id="special-story-banner-ad"><div id="tim_1"><div id="google_ads_iframe_/8484/tim_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8484/tim_0" name="google_ads_iframe_/8484/tim_0" width="170" height="30" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe></div><iframe id="google_ads_iframe_/8484/tim_0__hidden__" name="google_ads_iframe_/8484/tim_0__hidden__" width="0" height="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom; visibility: hidden; display: none;"></iframe></div><div id="tim_1-oop"></div></div>
+		</div>
+	</section>
+		<nav class="sub-nav"><ul id="menu-parents-menu-menu" class="menu"><li id="menu-item-3574302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3574302"><a href="http://time.com/growing-up-with-adhd/">Understanding ADHD</a></li>
+<li id="menu-item-3580846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3580846"><a href="http://time.com/why-schools-cant-teach-sex-ed/">The New Sex Ed</a></li>
+<li id="menu-item-3580845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3580845"><a href="http://time.com/the-discipline-wars/">A Guide to Discipline</a></li>
+</ul></nav></header>
+
+<div id="notTheHeader">
+	<div class="wrapper">
+		<div class="pushdowns">
+			<div id="pushdown-ad"></div>
+			<div class="before-viewport"></div>
+		</div>
+		<div class="readingpane">
+			<section class="article-viewport" role="main" aria-live="assertive">
+				<div class="wrapper">
+					<section class="parents-landing__articles">
+	<div class="articles">
+		<article>
+			
+			<figure>
+				<a href="http://time.com/growing-up-with-adhd/">
+					<img class='thumb' src="http://timedotcom.files.wordpress.com/2014/12/adhdhed_3_a.jpg?w=550&amp;h=367&amp;crop=1" itemprop="image" alt="" srcset="http://timedotcom.files.wordpress.com/2014/12/adhdhed_3_a.jpg 800w, http://timedotcom.files.wordpress.com/2014/12/adhdhed_3_a.jpg 800w 2x"/>
+				</a>
+			</figure>
+			<figcaption class="image-caption">
+				
+			</figcaption>
+			<h2><a href="http://time.com/growing-up-with-adhd/">Growing Up With ADHD <small>READ THE REPORT</small></a></h2>
+			<p>It's the most common psychiatric illness kids have and the fastest growing. What research tells us about the best way to help kids who can't focus</p>
+		</article>
+            <div class='parents_ads' id='parents_ads-3394340' data-position='parentslndng' data-cmad='true' data-size="900x50" data-type="tout"></div>
+		<article>
+			
+			<figure>
+				<a href="http://time.com/why-schools-cant-teach-sex-ed/">
+					<img class='thumb' src="http://timedotcom.files.wordpress.com/2014/11/87130797.jpg?w=550&amp;h=367&amp;crop=1" itemprop="image" alt="" srcset="http://timedotcom.files.wordpress.com/2014/11/87130797.jpg?w=1100&amp;h=734&amp;crop=1 800w, http://timedotcom.files.wordpress.com/2014/11/87130797.jpg?w=1100&amp;h=734&amp;crop=1 800w 2x"/>
+				</a>
+			</figure>
+			<figcaption class="image-caption">
+				<span class="credit">George S. Zimbel—Getty Images</span>
+			</figcaption>
+			<h2><a href="http://time.com/why-schools-cant-teach-sex-ed/">Why Schools Can’t Teach Sex Ed <small>READ THE REPORT</small></a></h2>
+			<p>As kids hear more about sex at a younger age, parents have to step in</p>
+		</article>
+		<article>
+			
+			<figure>
+				<a href="http://time.com/the-discipline-wars/">
+					<img class='thumb' src="http://i0.wp.com/timedotcom.files.wordpress.com/2014/11/discipline-defiant-child.jpg?crop=0px%2C0px%2C5605px%2C3740px&amp;resize=550%2C367" itemprop="image" alt="Furious Child" srcset="http://i0.wp.com/timedotcom.files.wordpress.com/2014/11/discipline-defiant-child.jpg?crop=0px%2C0px%2C5605px%2C3740px&amp;resize=1100%2C734 800w, http://i0.wp.com/timedotcom.files.wordpress.com/2014/11/discipline-defiant-child.jpg?crop=0px%2C0px%2C5605px%2C3740px&amp;resize=1100%2C734 800w 2x"/>
+				</a>
+			</figure>
+			<figcaption class="image-caption">
+				<span class="credit">Getty Images</span>
+			</figcaption>
+			<h2><a href="http://time.com/the-discipline-wars/">COMING SOON: The Discipline Wars <small>READ THE REPORT</small></a></h2>
+			<p>What works, what doesn't and how to behave when your kids won't</p>
+		</article>
+            <div class='parents_ads' id='parents_ads-3576155' data-position='parentslndng' data-cmad='false' data-size="900x50" data-type="tout"></div>
+	</div>
+</section>
+					<div class="center">
+						<div class="newsletter-shortcode parents">
+<form action="https://ebm.cheetahmail.com/r/regf2" method="post" target="time_brief_popup" onsubmit="window.open(this.action, 'time_brief_popup', 'width=486,height=250');">
+    <label class="intro"><small>Sign Up for</small> <img src="http://s0.wp.com/wp-content/themes/vip/time2014/img/parents-logo.png" width="90" /><small class="and-more">and more</small>  <small class="example"><a href="http://time.com/newsletter/parents/" target="_blank">view example</a></small></label>
+    <input type="hidden" name="n" value="4">
+    <input name="aid" type="hidden" value="1078532063">
+    <input type="hidden" name="fsub" value="2096280873">
+    <input type="hidden" name="TIME_SOURCE" value="parents_landing">
+    <input type="hidden" name="re" value="http://f.time.chtah.net/i/30/1078532063/thanks.html">
+    <input type="text" class="text input-field email" name="email" placeholder="Email">
+    <input type="submit" class="submit button" value="Submit">
+<small class="example after"><a href="http://time.com/newsletter/parents/" target="_blank">view example</a></small>
+</form>
+</div>					</div>
+					<footer class="site-footer ">
+	<ul class="footer-site-links">
+		<li>
+			<a href="http://time.com/">Home</a>
+		</li>
+		<li>
+			<a href="http://time.com/us/">U.S.</a>
+		</li>
+		<li>
+			<a href="http://time.com/politics/">Politics</a>
+		</li>
+		<li>
+			<a href="http://time.com/world/">World</a>
+		</li>
+		<li>
+			<a href="http://time.com/business/">Business</a>
+		</li>
+		<li>
+			<a href="http://time.com/tech/">Tech</a>
+		</li>
+		<li>
+			<a href="http://time.com/health/">Health</a>
+		</li>
+		<li>
+			<a href="http://time.com/science/">Science</a>
+		</li>
+		<li>
+			<a href="http://time.com/entertainment/">Entertainment</a>
+		</li>
+		<li>
+			<a href="http://time.com/newsfeed/">Newsfeed</a>
+		</li>
+		<li>
+			<a href="http://time.com/living/">Living</a>
+		</li>
+		<li>
+			<a href="http://time.com/ideas/">Ideas</a>
+		</li>
+		<li>
+			<a href="http://time.com/parents/">Parents</a>
+		</li>
+		<li>
+			<a href="http://time.com/sports/">Sports</a>
+		</li>
+		<li>
+			<a href="http://time.com/history/">History</a>
+		</li>
+		<li>
+			<a href="http://time.com/vault/">The TIME Vault</a>
+		</li>
+		<li>
+			<a href="http://time.com/magazine/">Magazine</a>
+		</li>
+		<li>
+			<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1002093.html">Subscribe</a>
+		</li>
+		<li>
+			<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1023465.html">Give a Gift</a>
+		</li>
+		<li>
+			<a href="http://ebm.cheetahmail.com/r/regf2?a=0&aid=1078532063&n=1&TIME_SOURCE=Time_footer">Newsletters</a>
+		</li>
+		<li>
+			<a href="https://secure.customersvc.com/servlet/Show?WESPAGE=td/home.html&MSRSM%20%20%20%20%20AG=TD">Customer
+				Service</a>
+		</li>
+		<li>
+			<a href="http://content.time.com/time/static/sitemap/">Site Map</a>
+		</li>
+		<li>
+			<a href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E">Privacy
+				Policy</a>
+		</li>
+		<li>
+			<a href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=B#california">Your
+				California Privacy Rights</a>
+		</li>
+		<li>
+			<a href="https://subscription.timeinc.com/storefront/privacy/time/privacy_terms_service.html">Terms of
+				Use</a>
+		</li>
+		<li>
+			<a href="http://www.timeincnewsgroupcustompub.com/">Advertising</a>
+		</li>
+		<li>
+			<a href="http://www.timemediakit.com/">Media Kit</a>
+		</li>
+		<li>
+			<a href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html">Ad Choices <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAMAAACq939wAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEHRSTlMAECAwQFBgcICPn6+/z9/vIxqCigAAAFZJREFUCB0FwQECwiAMBLCw4axS4f7/WhMn3wtAknwGIL/ZOTVAmmdnP5D2ZNbJnqTda7hW8pX2zs21E2mVOSrZU1plnewHaZWcGpDT1TWAJC8Aa90A/nKrBC08aQTRAAAAAElFTkSuQmCC" alt="Ad Choices"></a>
+		</li>
+	</ul>
+		<span>&copy; 2014 Time Inc. All rights reserved.</span>
+		<span class="vip">Powered by <a href="http://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+</footer>
+				</div>
+			</section>
+		</div>
+	</div>
+</div>
+
+	<div id="Sign_In_Modal" class="modal-container">
+		<div class="modal">
+			<div class="sign-in-modal-header">
+				Sign In
+				<div class="modal-close time-icons time-icons-close close-button"></div>
+			</div>
+			<div class="sign-in-modal-content">
+				<div class="sign-in-modal-prompt hidden">
+					Not a memeber? <a href="#">Sign Up</a>
+				</div>
+				<div class="sign-in-modal-forms">
+					<div class="sign-in-modal-sign-in">
+						<form id="sign-in-form" action="https://auth.time.com/login.php" method="post">
+							<input type="hidden" id="rurl" name="rurl">
+							<input type="hidden" id="turl" name="turl">
+							<div id="Sign_In_Modal_Error" class="modal-row hidden error">
+								Oops! We didn't recognize your email or password. Please try again.
+							</div>
+							<div class="modal-row">
+								<label for="sign-in-modal-email">EMAIL</label>
+							</div>
+							<div class="modal-row">
+								<input type="email" id="sign-in-modal-email" name="username" value="" placeholder="john.doe@example.com">
+							</div>
+							<div class="modal-row">
+								<label for="sign-in-modal-password">PASSWORD</label>
+							</div>
+							<div class="modal-row">
+								<input type="password" id="sign-in-modal-password" name="password" value="" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;">
+							</div>
+							<div class="modal-row">
+								<a id="Sign_In" class="button" href="#" data-bypass="true">SIGN IN</a>
+							</div>
+							<div class="modal-row remember-me">
+								<input type="checkbox" id="Remember-Me" name="remember">
+								<label for="Remember-Me">Remember Me</label>
+							</div>
+							<div class="modal-row forgot-password">
+								<a id="Forgot_Password" href="https://subscription.time.com/storefront/universalForgotPassword.ep?magcode=TD"/>Forgot Password?</a>
+							</div>
+						</form>
+					</div>
+					<div class="modal-row subscribe-box">
+							<h2 class="full-story">Want the Full Story?</h2>
+							<a class="button" id="Subscribe" href="http://subscription.time.com/storefront/subscribe-to-time/link/1019512.html" target="_blank">SUBSCRIBE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<div class="ie-message-modal"><div class="ie-message-modal-inner">
+<i class="time-icons time-icons-close"></i>
+<p>Your browser, Internet Explorer 8 or below, is out of date. It has known security flaws and may not display all features of this and other websites.</p>
+<a href="http://browser-update.org/update.html">Learn how to update your browser</a>
+</div></div>
+<span class="rail-handle" aria-hidden="true">TAP</span>
+<div class="left-rail-topper">
+	<header class="magazine-region-header">
+  <button class="toggle-magazine-region-dropdown">U.S. Edition</button>
+  <nav class="magazine-region-dropdown">
+    <ul class="magazine-region-list">
+      <li class="magazine-region-item">
+        <a class="magazine-region" data-region="us" href="http://time.com/magazine/us/" aria-controls="rail-articles">U.S. Edition</a>
+      </li>
+      <li class="magazine-region-item">
+        <a class="magazine-region" data-region="europe" href="http://time.com/magazine/europe/" aria-controls="rail-articles">Europe, Middle East and Africa Edition</a>
+      </li>
+      <li class="magazine-region-item">
+        <a class="magazine-region" data-region="asia" href="http://time.com/magazine/asia/" aria-controls="rail-articles">Asia Edition</a>
+      </li>
+      <li class="magazine-region-item">
+        <a class="magazine-region" data-region="south-pacific" href="http://time.com/magazine/south-pacific/" aria-controls="rail-articles">South Pacific Edition</a>
+      </li>
+    </ul>
+  </nav>
+</header>	<header class="rail-tabs" role="tablist"></header>
+</div>
+<script>window.twttr = (function (d, s, id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id; js.async=true; js.src= "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+}(document, "script", "twitter-wjs"));</script>
+	<script>Time.bootstrap = {"partners":[{"title":"Feds Suspect Pair Sought Bombs for Ferguson Protests","url":"http:\/\/www.nbcnews.com\/storyline\/michael-brown-shooting\/pair-suspected-trying-acquire-bombs-ferguson-protests-n254021?cid=par-time_20141122","partner":"NBC News","thumbnail_url":"http:\/\/i1.wp.com\/media4.s-nbcnews.com\/i\/newscms\/2014_47\/779396\/141121-ferguson-protests-2156_6773cb0f9632350d9ed263cd5c506315.jpg?resize=50%2C50"},{"title":"Two Ohio Men Wrongly Convicted of Murder Walk Free","url":"http:\/\/www.nbcnews.com\/news\/crime-courts\/ohio-men-wrongly-convicted-murder-after-39-years-released-n253356?cid=par-time_20141122","partner":"NBC News","thumbnail_url":"http:\/\/i2.wp.com\/media4.s-nbcnews.com\/i\/newscms\/2014_47\/778991\/141121-wiley-bridgeman-released-mn-1510_bedbeec3b6c53e010214d7684135bfce.jpg?resize=50%2C50"},{"title":"FSU Shooter Left Message: 'I Do Not Want to Die in Vain'","url":"http:\/\/www.nbcnews.com\/news\/us-news\/fsu-shooter-myron-may-left-message-i-do-not-want-n253436?cid=par-time_20141122","partner":"NBC News","thumbnail_url":"http:\/\/i2.wp.com\/media3.s-nbcnews.com\/i\/newscms\/2014_47\/778846\/141121-fsu-vigil-1249_ebeff27569dc42ee5bcb7e4571f3c9ac.jpg?resize=50%2C50"},{"title":"Toronto Maple Leafs Fans Sing National Anthem After Microphone Fails","url":"http:\/\/www.huffingtonpost.ca\/2014\/11\/20\/maple-leafs-american-anthem_n_6193658.html","partner":"Huffington Post","thumbnail_url":""},{"title":"Watch This Golden Retriever Go On A Delightful Rampage During Obedience Competition","url":"http:\/\/www.huffingtonpost.com\/2014\/11\/19\/golden-retriever-dog-fails-obedience-test-video_n_6186890.html","partner":"Huffington Post","thumbnail_url":""},{"title":"4 new ways movie theaters are filling seats and upselling patrons","url":"http:\/\/fortune.com\/2014\/11\/21\/4-new-ways-movie-theaters-are-filling-seats-and-upselling-patrons\/","partner":"Fortune","thumbnail_url":"http:\/\/i0.wp.com\/fortunedotcom.files.wordpress.com\/2014\/07\/95637369.jpg?resize=50%2C50"},{"title":"Underdogs Season 3: Huron High School in Ann Arbor, Michigan","url":"http:\/\/www.si.com\/external\/link\/underdogs-season-3-huron-high-school-ann-arbor-michigan?xid=si_topstories","partner":"Sports Illustrated","thumbnail_url":""},{"title":"Good News: There\u2019s a New Way to Get Out from Under Student Debt","url":"http:\/\/time.com\/money\/3597494\/student-loans-repayment-wells-fargo-discover\/","partner":"Money","thumbnail_url":""}],"sponsors":false,"dividers":["<section class=\"read-more-divider-grid\">\n  <div class=\"divider-300x600\" data-cb-ad-id=\"divider-300x600\"><\/div>\n <div class=\"articles\">\n    <article class=\"related-article\">\n\t  <a class=\"article-thumbnail-wrap\" href=\"http:\/\/www.nbcnews.com\/news\/week-in-pictures\/week-pictures-nov-13-20-n252871?cid=par-time_20141122\" target=\"_blank\" data-event=\"article-divider\">\n        <img class=\"article-thumbnail\" src=\"http:\/\/media2.s-nbcnews.com\/i\/newscms\/2014_47\/777456\/ss-141120-twip-07_70ccf92b7698726ccbdbf1ad661a2fc8.jpg\" alt=\"Whale of a Tale: Here's the Week in Pictures\" width=\"100\" height=\"100\">\n      <\/a>\n      <section class=\"tags\">\n        <a class=\"section-tag\" href=\"http:\/\/www.nbcnews.com\/news\/week-in-pictures\/week-pictures-nov-13-20-n252871?cid=par-time_20141122\" target=\"_blank\" data-event=\"article-divider\">NBC News<\/a> \n      <\/section>\n\t  <a class=\"article-title-link\" href=\"http:\/\/www.nbcnews.com\/news\/week-in-pictures\/week-pictures-nov-13-20-n252871?cid=par-time_20141122\" target=\"_blank\" data-event=\"article-divider\">\n        <h4 class=\"article-title\">Whale of a Tale: Here's the Week in Pictures<\/h4>\n      <\/a>\n    <\/article>\n    <article class=\"related-article\">\n      <a class=\"article-thumbnail-wrap\" href=\"http:\/\/time.com\/3589369\/know-right-now-pope-ferguson-nfl-chocolate\/\" data-event=\"article-divider\">\n        <img class=\"article-thumbnail\" src=\"http:\/\/timedotcom.files.wordpress.com\/2014\/11\/krn_1117_g3.gif?w=100&amp;h=100&amp;crop=1\" alt=\"{short_title}}\">\n      <\/a>\n      <section class=\"tags\">\n        <a class=\"section-tag\" href=\"http:\/\/time.com\/world\/\" data-event=\"article-divider\">World<\/a>\n      <\/section>\n      <a class=\"article-title-link\" href=\"http:\/\/time.com\/3589369\/know-right-now-pope-ferguson-nfl-chocolate\/\"  data-event=\"article-divider\">\n        <h4 class=\"article-title\">From the Pope to the NFL, Watch Today's Top Trending Stories<\/h4>\n      <\/a>\n    <\/article>\n    <article class=\"related-article\">\n      <a class=\"article-thumbnail-wrap\" href=\"http:\/\/time.com\/3507124\/hardest-interview-question\/\" data-event=\"article-divider\">\n        <img class=\"article-thumbnail\" src=\"http:\/\/timedotcom.files.wordpress.com\/2014\/10\/464675255.jpg?w=100&amp;h=100&amp;crop=1\" alt=\"{short_title}}\">\n      <\/a>\n      <a class=\"article-title-link\" href=\"http:\/\/time.com\/3507124\/hardest-interview-question\/\"  data-event=\"article-divider\">\n        <h4 class=\"article-title\">The Hardest Job Interview Question\u2014And How to Answer It<\/h4>\n      <\/a>\n    <\/article>\n    <article class=\"related-article\">\n      <a class=\"article-thumbnail-wrap\" href=\"http:\/\/time.com\/3517110\/end-human-driving\/\" data-event=\"article-divider\">\n        <img class=\"article-thumbnail\" src=\"http:\/\/timedotcom.files.wordpress.com\/2014\/10\/sam-shank.jpg?w=100&amp;h=100&amp;crop=1\" alt=\"{short_title}}\">\n      <\/a>\n      <section class=\"tags\">\n        <a class=\"section-tag\" href=\"http:\/\/time.com\/ideas\/\" data-event=\"article-divider\">Ideas<\/a>\n      <\/section>\n      <a class=\"article-title-link\" href=\"http:\/\/time.com\/3517110\/end-human-driving\/\"  data-event=\"article-divider\">\n        <h4 class=\"article-title\">Let\u2019s Fix It: Let&#8217;s End Human Driving<\/h4>\n      <\/a>\n    <\/article>\n    <article class=\"related-article\">\n      <a class=\"article-thumbnail-wrap\" href=\"http:\/\/time.com\/3304308\/kate-middleton-pregnant-fashion\/\" data-event=\"article-divider\">\n        <img class=\"article-thumbnail\" src=\"http:\/\/i2.wp.com\/timedotcom.files.wordpress.com\/2014\/09\/kate-middleton-pregnancy-1.jpg?crop=797px%2C267px%2C495px%2C495px&amp;resize=100%2C100\" alt=\"{short_title}}\">\n      <\/a>\n      <section class=\"tags\">\n        <a class=\"section-tag\" href=\"http:\/\/time.com\/living\/\" data-event=\"article-divider\">Living<\/a>\n      <\/section>\n      <a class=\"article-title-link\" href=\"http:\/\/time.com\/3304308\/kate-middleton-pregnant-fashion\/\"  data-event=\"article-divider\">\n        <h4 class=\"article-title\">See Kate Middleton&#8217;s Best Pregnancy Looks<\/h4>\n      <\/a>\n    <\/article>\n <\/div>\n\n<\/section>"],"auth_url":"https:\/\/auth.time.com\/","popularVideos":[3897962885001,3899092643001,3900439492001,3898030379001,3899213835001,3897102009001,3893993028001,3893209775001,3899432253001,3899409088001,3893895844001,3895226415001,3898303014001,3901821185001,3902449763001],"promo_tray":{"activate_tray":true,"button_text":"Subscribe Now","popular":{"title":"The Last Men of Steel","url":"http:\/\/time.com\/3547825\/nucor-tries-to-reverse-decline-in-american-steelmaking\/","hero":{"class":"landscape","thumbnail":"http:\/\/timedotcom.files.wordpress.com\/2014\/10\/nucor-steel-10.jpg?w=100&h=100&crop=1","src":{"small":"http:\/\/timedotcom.files.wordpress.com\/2014\/10\/nucor-steel-10.jpg?w=280&h=187&crop=1","small_2x":"http:\/\/timedotcom.files.wordpress.com\/2014\/10\/nucor-steel-10.jpg?w=560&h=374&crop=1","large":"http:\/\/timedotcom.files.wordpress.com\/2014\/10\/nucor-steel-10.jpg?w=550&h=367&crop=1","large_2x":"http:\/\/timedotcom.files.wordpress.com\/2014\/10\/nucor-steel-10.jpg?w=1100&h=734&crop=1"},"credit":"Ryan Lowry for TIME","caption":"A worker approaches the electric-arc furnace, which uses three giant\nelectrodes to melt scrap into molten steel. Nucor's workers are among the\nhighest-paid in the industry, Crawfordsville, Ind. on Aug. 25, 2014. ","alt":"Nucor Steel","providers":[]}},"promotion_text":"Get TIME Magazine today","promotion_url":"https:\/\/subscription.time.com\/storefront\/subscribe-to-time\/link\/1024707.html","tray_title":"STAY IN THE KNOW WITH TIME"}}</script>	<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"1","is_single":"0","is_front_page":"1","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??/wp-content/themes/vip/time2014/js/dist/time-tracking.js,/wp-content/mu-plugins/2-vip/js/vip-analytics.js?m=1416431519j'></script>
+<script type='text/javascript' src='http://admin.brightcove.com/js/BrightcoveExperiences.js?ver=4.1-alpha-30111'></script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJyVzlEKwkAMRdENWWN0FPwQ1zLYYDNkpsG8trh76Q6c3wsHLm0+vOYGaSBMUiVoVSdolfOJE5WgUQPktry1xbHEgf4kC9QU3x6yhyFMR4lp3rqkVLcM6Tr0/IFm282zPjjxLV34yvfyA/DvYzU='></script>
+<script type='text/javascript' src='http://tiads.time.com/ads/tgx.js?ver=4.1-alpha-30111'></script>
+<script type='text/javascript' src='//js.revsci.net/gateway/gw.js?csid=H07710&#038;ver=4.1-alpha-30111'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TIME_DFP = {"zone":"parents","params":{"ptype":"parents","ch":"parents"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WL8ss0C/JzE01MjA00c8q1k/JLC4BC+impBXoZRXr6JOipyQxKT8/J5EUfYkFIGvsc20NTQzNTIwNTQ0tswDgYTqB'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script>
+
+	window._taboola = window._taboola || [];
+	_taboola.push({article:'auto'});
+
+	if (localStorage && localStorage.notaboola != "true") {
+		Modernizr.load({
+			load: '//cdn.taboola.com/libtrc/timeinc-time/loader.js',
+			complete: function () {
+				Time.taboola.renderModules();
+			}
+		});
+	}
+
+	Modernizr.load({ load: '//b.scorecardresearch.com/beacon.js' });
+	Modernizr.load({ load: '//widgets.outbrain.com/outbrain.js' });
+	</script>
+	<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6035728&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1"></noscript>
+	<script src="//stats.wp.com/w.js?24" type="text/javascript"></script>
+<script type="text/javascript">
+if(typeof trackerModule == 'object' && 'storeIdentity' in trackerModule){trackerModule.storeIdentity({'current_blog_id':'1359921','current_blog_tz':'-5','current_user_lang':'en','current_blog_lang':'en','current_user_id':'0'});}
+st_go({'blog':'1359921','v':'wpcom','tz':'-5','user_id':'0','subd':'timedotcom'});
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=1359921&v=wpcomvt&tz=-5&user_id=0&subd=timedotcom&rand="+Math.random();}
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdETWI1alhvb1oseHImN101ZFpEakVpYjlQYVFLYzBaVHRtPz0wXS9bUW8yai5mMmVEMV1fJTZPeis/UERVSU12b29+QXBUL1RHNyVZeFolflNweUw5YiZzUEFRSkxqcTk0U3A9by1VYjg5Zy1IeExubzB5dHVSZnF8SX5oNnVuPVYlS0JuODQyZXxwNjd+cnM5SVJsbXVbeV1bYkNVTFJYQmNBUj9NaHBVMkJiaixHXW9ScC1BTEpIcEt4ag=='});
+addLoadEvent(function(){linktracker_init('1359921',0);});
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><script>if (typeof TiiAdTrackRevSci === 'function') { TiiAdTrackRevSci(); }</script>
+</body></html>
