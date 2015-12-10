@@ -29,4 +29,5 @@ URL缓冲区以继续查找；之后对网页正文进行处理，对于用户�
 
 3.如果要去除可执行目标文件利用命令clean；
 
-#Creating a new branch is quick & simple
+
+#creating a new branch in and simple
